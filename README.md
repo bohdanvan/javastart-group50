@@ -5,6 +5,8 @@ Prog.kiev.ua. Java Start. Группа 50
 
 [Java Start. Богдан. Группа 50. Лекции 1-2 (01.04.2017)](https://prog.kiev.ua/forum/index.php/topic,2859.0.html)
 
+[Java Start. Богдан. Группа 50. Лекции 3-4 (08.04.2017)](https://prog.kiev.ua/forum/index.php/topic,2869.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
